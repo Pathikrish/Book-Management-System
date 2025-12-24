@@ -8,8 +8,6 @@ A RESTful Book Management System built using **Java** and **Spring Boot** that a
 - View book by ID
 - Update book details
 - Delete a book
-- Input validation
-- Global exception handling
 
 ## 🛠 Tech Stack
 - Java 17

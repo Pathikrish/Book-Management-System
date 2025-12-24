@@ -19,4 +19,23 @@ A RESTful Book Management System built using **Java** and **Spring Boot** that a
 - REST API
 - Maven
 
-## 📂 Project Structure
+
+## ▶️ How to Run
+1. Clone the repository  
+2. Create MySQL database: `bookdb`
+3. Update `application.properties`
+4. Run the application  
+5. Access APIs via Postman or browser
+
+## 📌 API Endpoints
+| Method | Endpoint | Description |
+|------|--------|-------------|
+| POST | /api/books | Add book |
+| GET | /api/books | Get all books |
+| GET | /api/books/{id} | Get book by ID |
+| PUT | /api/books/{id} | Update book |
+| DELETE | /api/books/{id} | Delete book |
+
+## 👤 Author
+Pathikrishna L
+
